@@ -6,7 +6,8 @@
 - [Solder ATmega32u4](http://vimeo.com/51312926)
 
 ## GH60
-[How to make a keyboard - The Matrix](http://blog.komar.be/how-to-make-a-keyboard-the-matrix/)
+-- [How to make a keyboard - The Matrix](http://blog.komar.be/how-to-make-a-keyboard-the-matrix/)
+-- [ghkb Repository](https://github.com/komar007/ghkb)
 
 ## PCB Manufacturer
 - [Advanced Circuits](http://www.4pcb.com/)
