@@ -1,7 +1,10 @@
 # Components Parts List
 
 ## Microcontroller
-[ATMEGA32U4-AU](http://www.digikey.com/product-detail/en/ATMEGA32U4-AU/ATMEGA32U4-AU-ND/1914602) [available here](http://www.ebay.com/itm/1PCS-IC-ATMEL-TQFP-44-ATMEGA32U4-AU-MEGA32U4-AU-ATMEGA32U4-MEGA32U4-/360868648247?pt=LH_DefaultDomain_0&hash=item5405729537)
+- [Leonardo Pro Micro](http://www.ebay.com/itm/Leonardo-Pro-Micro-ATmega32U4-Arduino-IDE-1-0-3-Bootloader-replace-Pro-Mini-/310634777706)
+- [Teensy 2.0](http://www.adafruit.com/products/199)
+- [ATMEGA32U4-AU](http://www.digikey.com/product-detail/en/ATMEGA32U4-AU/ATMEGA32U4-AU-ND/1914602) [available here](http://www.ebay.com/itm/1PCS-IC-ATMEL-TQFP-44-ATMEGA32U4-AU-MEGA32U4-AU-ATMEGA32U4-MEGA32U4-/360868648247?pt=LH_DefaultDomain_0&hash=item5405729537)
+
 
 ## Diodes
 
