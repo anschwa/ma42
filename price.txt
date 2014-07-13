@@ -1,0 +1,6 @@
+PCB: $141.10
+Stabilizers: $14.32
+Atmega: $28.00
+DigiKey:$49.91
+DigiKey2: $8.26
+Switches: $49.00
