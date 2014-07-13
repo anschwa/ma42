@@ -26,7 +26,13 @@
 - [0675031020 (GH60)](http://www.digikey.com/product-detail/en/0675031020/WM5461CT-ND/1624427)
 
 ## Crystal Oscillator
-[NX3225GA-26MHZ-TI](http://www.digikey.com/product-detail/en/NX3225GA-26MHZ-TI/644-1160-1-ND/2349038)
+- [NX3225GA-16MHZ- STD-CRG-1](http://www.digikey.com/product-detail/en/NX3225GA-16MHZ-%20STD-CRG-1/644-1174-1-ND/3125563)
+- [NX3225GA-26MHZ-TI](http://www.digikey.com/product-detail/en/NX3225GA-26MHZ-TI/644-1160-1-ND/2349038)
 
 ## Reset Switch
 [KSEM31G LFS](http://www.digikey.com/product-detail/en/KSEM31G%20LFS/CKN10424CT-ND/3487193)
+
+## Switch Stabilizers
+- [spring](http://www.wasdkeyboards.com/index.php/products/keyboard-parts/cherry-mx-stabilizer-spring-for-2x-keycaps.html#ad-image-0)
+- [insert](http://www.wasdkeyboards.com/index.php/products/keyboard-parts/cherry-mx-keycap-stabilizer-insert-2pcs.html#ad-image-0)
+- [clip](http://www.wasdkeyboards.com/index.php/products/keyboard-parts/cherry-mx-plate-mounted-stabilizer-clips-2pcs.html#ad-image-0)
