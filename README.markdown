@@ -1,6 +1,6 @@
-schwa42
+ma42
 =======
 
-A 42% mechanical keyboard.
+A programable 42% mechanical keyboard for Dvorak.
 
 
