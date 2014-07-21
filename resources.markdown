@@ -24,3 +24,6 @@
 
 ## Schematics
 - [Teensy](https://www.pjrc.com/teensy/schematic.html)
+
+## Layout
+- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/)
