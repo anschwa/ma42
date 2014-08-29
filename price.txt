@@ -4,3 +4,4 @@ Atmega: $28.00
 DigiKey:$49.91
 DigiKey2: $8.26
 Switches: $49.00
+DigiKey 3: $15.14
