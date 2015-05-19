@@ -11,6 +11,9 @@ Install `avr-binutils`:
 Install `avr-gcc`:
 ```brew install https://raw.github.com/larsimmisch/homebrew-avr/master/avr-gcc.rb```
 
+Install `avr-libc`:
+```brew install https://raw.github.com/larsimmisch/homebrew-avr/master/avr-libc.rb```
+
 # For Flashing
 Install `dfu-programmer`:
 ```brew install dfu-programmer```
