@@ -1,0 +1,3 @@
+[submodule "software/tmk_keyboard"]
+	path = software/tmk_keyboard
+	url = git@github.com:daschwa/tmk_keyboard.git
