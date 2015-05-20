@@ -1,6 +1,6 @@
 inspiration
 .dropbox
-photos
+photos/*
 !photos/ma42.jpg
 .DS_Store
 Icon*
