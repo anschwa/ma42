@@ -11,6 +11,16 @@ With the help of:
 - [thechemist](https://geekhack.org/index.php?action=profile;u=27275)
 - [geekhack.org](https://geekhack.org/index.php)
 
+# Editor
+
+[TMK Keymap Editor for MA42](http://adamschwartz.io/tmk_keyboard/editor/ma42/).
+
+Based on the TMK Keymap Editor for the [HHKB](http://www.tmk-kbd.com/tmk_keyboard/editor/hhkb/index.html).
+
+# Photos
+
+![MA42 on top of rMBP](./photos/ma42.jpg)
+
 # License
 The MA42 project is licensed under MIT unless otherwise noted.
 
