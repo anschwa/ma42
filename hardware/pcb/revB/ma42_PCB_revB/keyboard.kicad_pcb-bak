@@ -14,7 +14,7 @@
 
   (page A3)
   (layers
-    (15 F.Cu signal)
+    (15 F.Cu signal hide)
     (0 B.Cu signal)
     (16 B.Adhes user)
     (17 F.Adhes user)
@@ -62,7 +62,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 284196865)
+      (layerselection 285179905)
       (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.150000)
@@ -86,7 +86,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory resources/svg/))
+      (outputdirectory gerbers/))
   )
 
   (net 0 "")
@@ -4887,7 +4887,7 @@
   (segment (start 272.542 147.828) (end 272.542 133.7183) (width 0.4064) (layer B.Cu) (net 2) (tstamp 53D4977E))
   (segment (start 274.6883 149.9743) (end 272.542 147.828) (width 0.4064) (layer B.Cu) (net 2) (tstamp 53D4977D))
   (segment (start 265.0363 93.472) (end 265.0363 107.696) (width 0.4064) (layer B.Cu) (net 2))
-  (segment (start 265.0363 107.696) (end 269.8623 112.522) (width 0.4064) (layer B.Cu) (net 2) (tstamp 53D49730))
+  (segment (start 265.0363 107.696) (end 269.8623 112.522) (width 0.254) (layer B.Cu) (net 2) (tstamp 53D49730))
   (segment (start 269.8623 112.522) (end 269.8623 126.746) (width 0.4064) (layer B.Cu) (net 2))
   (segment (start 269.8623 126.746) (end 274.6883 131.572) (width 0.4064) (layer B.Cu) (net 2) (tstamp 53D4971A))
   (segment (start 203.2 149.987) (end 203.2 147.574) (width 0.4064) (layer B.Cu) (net 3))

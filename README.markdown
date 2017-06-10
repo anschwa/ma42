@@ -13,9 +13,9 @@ With the help of:
 
 # Editor
 
-[TMK Keymap Editor for MA42](http://adamschwartz.io/tmk_keyboard/editor/ma42/).
+[TMK Keymap Editor for MA42](http://anschwa.com/tmk_keyboard/editor/ma42/index.html).
 
-Based on the TMK Keymap Editor for the [HHKB](http://www.tmk-kbd.com/tmk_keyboard/editor/hhkb/index.html).
+Based on the [TMK Keymap Editor for the HHKB](http://www.tmk-kbd.com/tmk_keyboard/editor/hhkb/index.html).
 
 # Photos
 
