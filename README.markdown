@@ -21,7 +21,7 @@ Based on the [TMK Keymap Editor for the HHKB](http://www.tmk-kbd.com/tmk_keyboar
 
 ![MA42 on top of rMBP](./photos/ma42.jpg)
 
+![MA42 PCB revB](./photos/pcb.png)
+
 # License
 The MA42 project is licensed under MIT unless otherwise noted.
-
-
